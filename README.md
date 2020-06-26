@@ -1,0 +1,2 @@
+# laravel-mix
+vuecrud
